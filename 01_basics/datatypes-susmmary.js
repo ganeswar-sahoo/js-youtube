@@ -30,3 +30,17 @@ const myFunction = function() {
 
 console.log(typeof bigNumber);
 // for more details go and check ecma js
+
+
+
+// ++++++++++++++++++++++++++++++++
+
+// Stack (Primitive), Heap (Non-Primitive)
+
+let myYoutubeName = "Ganeswardotcom";
+let anothername = myYoutubeName;
+anothername = "chaiaurcode";
+
+console.log(myYoutubeName);
+console.log(anothername);
+
